@@ -13,7 +13,7 @@ Let's explore more of Indonesia and discover ecotourism destinations and alterna
 ## 📚 Repositories
 
 ### Front-End
-[Nusatawan - Front-End] (https://github.com/C624-PS010/nusatawan-front-end)
+[Nusatawan - Front-End](https://github.com/C624-PS010/nusatawan-front-end)
 
 ### Back-End
-[Nusatawan - Back-End] (https://github.com/C624-PS010/nusatawan-api)
+[Nusatawan - Back-End](https://github.com/C624-PS010/nusatawan-api)
