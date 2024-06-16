@@ -1,4 +1,4 @@
-## Capstone Project  | *C624-PS010*
+<h1 align="center">Capstone Project  | *C624-PS010*</h1>
 
 <!-- PROJECT LOGO -->
 <br />
@@ -74,7 +74,7 @@ We believe this platform will not only benefit users in finding suitable travel 
 [![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 [![tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-[![vercel](	https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+[![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
