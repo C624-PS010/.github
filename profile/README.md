@@ -1,29 +1,16 @@
-<h1 align="center">Capstone Project  | *C624-PS010*</h1>
+<h1 align="center">Capstone Project  | C624-PS010</h1>
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="[https://github.com/github_username/repo_name](https://github.com/C624-PS010)">
-    <img src="/img/logo.jpg" alt="Logo" width="80" height="80">
-  </a>
-
+<!-- PROJECT -->
 <h3 align="center">Nusatawan: Jelajahi Pesona Nusantara</h3>
 
   <p align="center">
-    project_description
-    <br />
     <a href="[https://github.com/github_username/repo_name](https://github.com/orgs/C624-PS010/repositories)"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/github_username/repo_name">View Demo</a>
   </p>
 </div>
-
-## 👨‍💻🧑‍💻👩‍💻 Our Team : 
-* F2916XB176 - Aufaa Husniati - Universitas Pasundan - Front-End
-* F1976YB116 - Risky - Universitas Ciputra Surabaya - Back-End
-* F2886YB202 - Adriansyah - Universitas Pamulang - Back-End
-
+    
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -42,13 +29,14 @@
       </ul>
     </li>
     <li><a href="#contributing">Contributing</a></li>
+       <li><a href="#team">Contact</a></li>
   </ol>
 </details>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project 🏔️
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![Screenshot (1862)](https://github.com/C624-PS010/.github/assets/79130372/ef073684-f404-406b-8a7b-7a4da402edff)
 
 Let's explore more of Indonesia and discover ecotourism destinations and alternative tourist attractions that are not yet popular with Nusatawan! With this app, you can plan a trip that not only satisfies your sense of adventure, but also contributes to environmental conservation and local wisdom. Join us to reduce the pressure on well-known tourist destinations and enjoy the beauty of Indonesia that is yet to be discovered. Start your journey now with Nusatawan!
 
@@ -71,10 +59,10 @@ We believe this platform will not only benefit users in finding suitable travel 
 [![eslint](https://img.shields.io/badge/eslint-1B222E?style=for-the-badge&logo=eslint&logoColor=white)](https://www.npmjs.com/package/eslint)
 [![prettier](https://img.shields.io/badge/prettier-1B222E?style=for-the-badge&logo=prettier&logoColor=white)](https://www.npmjs.com/package/prettier)
 [![postman](https://img.shields.io/badge/postman-1B222E?style=for-the-badge&logo=postman&logoColor=white)](https://www.npmjs.com/package/postman)
-[![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-[![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-[![tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-[![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+[![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
+[![tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -128,3 +116,16 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- CONTACT -->
+## Team
+## 👨‍💻🧑‍💻👩‍💻 Meet our Team : 
+* F2916XB176 - Aufaa Husniati - Universitas Pasundan - Front-End
+  [![Github](https://img.shields.io/badge/github-black?logo=github&logoColor=white)](https://github.com/aufaahusniati)
+  [![linkedin](https://img.shields.io/badge/linkedin-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/aufaahusniati)
+* F1976YB116 - Risky - Universitas Ciputra Surabaya - Back-End
+  [![Github](https://img.shields.io/badge/github-black?logo=github&logoColor=white)](https://github.com/Aerossky)
+  [![linkedin](https://img.shields.io/badge/linkedin-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/risky-aerossky)
+* F2886YB202 - Adriansyah - Universitas Pamulang - Back-End
+  [![Github](https://img.shields.io/badge/github-black?logo=github&logoColor=white)](https://github.com/Sekonso)
+  [![linkedin](https://img.shields.io/badge/linkedin-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriansyah-anca-197270214)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
